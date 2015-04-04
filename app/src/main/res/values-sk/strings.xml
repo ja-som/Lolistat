@@ -4,10 +4,12 @@
     <string name="app_name">Lolistat</string>
 	
 	<!-- Settings -->
+	<string name="global">Všeobecné (môžu byť prepísané)</string>
+	<string name="global_short">Všeobecné</string>
+	<string name="search">Vyhľadať</string>
+	<string name="enabled">Povolené</string>
 	<string name="tint_navigation">Zafarbiť navigačnú lištu</string>
 	<string name="tint_icons">Zafarbiť ikony upozornení</string>
-	<string name="blacklist">Čierna listina</string>
-	<string name="blacklist_sum">Zakáže Lolistat pre vybrané aplikácie</string>
 	<string name="about">O aplikácii</string>
 	
 	<!-- About -->
@@ -28,5 +30,7 @@
 	<!-- Messages -->
 	<string name="plz_wait">Prosím, počkajte...</string>
 	<string name="save">Uložiť</string>
+	<string name="reset">Obnoviť</string>
+	<string name="reset_confirm">Naozaj obnoviť?</string>
 
 </resources>
